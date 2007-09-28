@@ -2,7 +2,7 @@
 /*
 Plugin Name: FAQ Autoresponder
 Plugin URI: http://planetozh.com/blog/my-projects/wordpress-comment-faq-auto-responder/
-Description: Replies potential answer when a comment with a FAQ is posted.
+Description: Replies potential answer(s) when a comment with a FAQ is posted.
 Version: 1.0
 Author: Ozh
 Author URI: http://planetOzh.com/
