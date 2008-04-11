@@ -1,4 +1,4 @@
-=== FAQ Auto Responder ===
+=== Ozh' FAQ Auto Responder ===
 Donate link: http://planetozh.com/exit/donate
 Tags: ozh, FAQ, comment, comments, question
 Requires at least: 1.2
