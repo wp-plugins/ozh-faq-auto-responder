@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: FAQ Autoresponder
+Plugin Name: Ozh' FAQ Auto Responder
 Plugin URI: http://planetozh.com/blog/my-projects/wordpress-comment-faq-auto-responder/
 Description: Replies potential answer(s) when a comment with a FAQ is posted.
 Version: 1.0
