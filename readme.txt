@@ -2,7 +2,6 @@
 Donate link: http://planetozh.com/exit/donate
 Tags: ozh, FAQ, comment, comments, question
 Requires at least: 1.2
-Tested up to: 2.5
 Stable tag: trunk
 
 Have a blog where readers often ask the same questions ? Give the Auto Responder a try and save support time!
