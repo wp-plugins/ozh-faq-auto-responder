@@ -3,7 +3,7 @@
 Plugin Name: Ozh' FAQ Auto Responder
 Plugin URI: http://planetozh.com/blog/my-projects/wordpress-comment-faq-auto-responder/
 Description: Replies potential answer(s) when a comment with a FAQ is posted.
-Version: 1.0
+Version: 1.0.1
 Author: Ozh
 Author URI: http://planetOzh.com/
 */
@@ -179,7 +179,7 @@ function wp_ozh_faq($data) {
 }
 
 /* Script called directly ? Let's print out a fake FAQ response so you can tweak your style */
-if (!function_exists('get_settings')) {
+if (!function_exists('add_action')) {
 
 	// No FAQ defined ? Gee.
 	if (empty($wp_ozh_faq['faq'])) {
