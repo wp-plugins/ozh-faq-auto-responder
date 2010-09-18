@@ -4,6 +4,7 @@ Tags: ozh, FAQ, comment, comments, question
 Requires at least: 1.2
 Tested up to: 9.9
 Stable tag: trunk
+Contributors: ozh
 
 Have a blog where readers often ask the same questions ? Give the Auto Responder a try and save support time!
 
